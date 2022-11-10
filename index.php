@@ -101,7 +101,7 @@
 <body>
 	<div class="container">
 		<header>
-			<div class="row mt-5 flex-column mx-auto">
+			<div class="row mt-5 d-flex justify-content-center">
 				<!-- Text Header -->
 				<div class="col-xl-6 mb-5">
 					<div class="p3 mx-auto">
